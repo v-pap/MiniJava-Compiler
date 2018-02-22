@@ -46,11 +46,12 @@ For example if you have 2 MiniJava programs you will run them this way
 java Main file1.java file2.java
 ```
 The compiler will produce an LLVM file for each MiniJava program.
-In the first example it will produce the:
+
+In the first example it will produce the
 ```
 file.ll
 ```
-and on the second example it will produce:
+and on the second example it will produce
 ```
 file1.ll file2.ll
 ```
