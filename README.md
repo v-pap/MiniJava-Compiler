@@ -20,15 +20,15 @@ sudo apt-get install clang-4.0
 
 ### Installing
 
-1) Get a copy of the project:
+1) Get a copy of the project
 ```
 git clone https://github.com/v-pap/MiniJava-Compiler.git
 ```
-2) Go into the src directory:
+2) Go into the src directory
 ```
 cd MiniJava-Compiler/src
 ```
-3) Compile the project:
+3) Compile the project
 ```
 make
 ```
@@ -59,7 +59,7 @@ file1.ll file2.ll
 
 A script is provided in the scripts directory which when run on the same directory as the LLVM files (.ll) will produce executable code.
 
-Running the script
+### Running the script
 
 Fixing the script permissions (only one time needed)
 ```
