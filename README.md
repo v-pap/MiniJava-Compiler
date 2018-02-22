@@ -39,8 +39,8 @@ In order to compile a MiniJava program you will have to type
 ```
 java Main file.java
 ```
-If you have multiple MiniJava programs to run you can add them as extra arguments.
-For example if you have 2 MiniJava programs you will run them this way
+If you have multiple MiniJava programs to compile you can add them as extra arguments.
+For example if you have 2 MiniJava programs you can compile them this way
 
 ```
 java Main file1.java file2.java
