@@ -4,7 +4,7 @@ This project is a MiniJava Compiler written in Java that produces code in the [L
 
 ## Getting Started
 
-The following steps are required in order to set up your enviroment and use the compiler.
+The following steps are required in order to set up your enviroment and use the compiler. You can skip the following setup and just use the provided Dockerfile.
 
 ### Prerequisites
 
